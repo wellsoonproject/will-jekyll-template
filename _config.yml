@@ -1,14 +1,14 @@
 # Site settings
-title: a better world is on the cards
+title: wellsoon.nl
 description: a better world is on the cards
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://wellsoon.nl" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
-username: Lorem Ipsum
-user_description: Anon Developer at Lorem Ipsum Dolor
-user_title: Anon Developer
-email: anon@anon.com
+username: wellsoon
+user_description: 
+user_title: a better world is on the cards
+email: wellsoonproject@gmail.com
 twitter_username: lorem_ipsum
 github_username:  lorem_ipsum
 gplus_username:  lorem_ipsum
